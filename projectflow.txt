@@ -1,0 +1,6 @@
+Create git repo and clone it in local
+Create mycode.py and add code to it. (it will save a csv file to a new "data" folder)
+Do a git add-commit-push before initializibng dvc
+#pip install dvc
+now we do "dvc init" (create .dvcignore, .dvc)
+now do "mkdir S3" (creates a new s3 directory)
